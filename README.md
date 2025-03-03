@@ -2,7 +2,7 @@
 ##🚀 Passionate [font-end] Developer | 💡 Open Source Enthusiast | 🎯 Problem Solver
 
 #📌 About Me
-###💻 Experienced in [list key technologies,htnl css3,tailwned.css. JavaScript, React]
+###💻 Experienced in [list key technologies,html css3,tailwned.css. JavaScript, React]
 ###🚀 Building scalable and efficient applications
 ###🎯 Always learning and contributing to open-source projects
 ####💬 Let's connect and collaborate on something awesome!
