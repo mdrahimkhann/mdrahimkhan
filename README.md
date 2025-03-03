@@ -7,7 +7,7 @@
 ### 🎯 Always learning and contributing to open-source projects
 #### 💬 Let's connect and collaborate on something awesome!
 # 🔧 Tech Stack
-#### Frontend: [e.g., React, Next.js, Tailwind CSS]
+### Frontend: [e.g.,html . css . javascript. React.js, Tailwind.CSS]
 #### Backend: [e.g., Node.js, Express, Django]
 #### Database: [e.g., PostgreSQL, MongoDB]
 #### Version Control: Git, GitHub
